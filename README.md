@@ -4,7 +4,7 @@ Ce projet utilise [MediaPipe](https://google.github.io/mediapipe/) et [OpenCV](h
 ## 📺 Tutoriel vidéo disponible sur YouTube
 
 🎥 Regardez le tutoriel étape par étape ici :  
-[![Regarder sur YouTube](https://img.shields.io/badge/📺%20Tutoriel%20YouTube-Regarder%20la%20vidéo-red?style=for-the-badge)](https://youtu.be/UPrW1I9YXAY)
+[![Regarder sur YouTube](https://img.shields.io/badge/📺%20Tutoriel%20YouTube-Regarder%20la%20vidéo-red?style=for-the-badge)](https://youtu.be/0TwQvYYCpGM)
 
 ## 🏋️ Objectif
 
